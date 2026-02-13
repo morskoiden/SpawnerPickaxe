@@ -1,2 +1,2 @@
 # SpawnerPickaxe
-Add item which has a chance, which can be customized setting in the config
+Adds an item, and with a chance that can be configured in the configuration, a monster spawner will drop.
