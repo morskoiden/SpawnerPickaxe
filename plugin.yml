@@ -1,0 +1,9 @@
+name: SpawnerPickaxe
+main: morskoi\SpawnerPickaxe\SpawnerPickaxe
+api: 5.27.1
+version: 1.0.0
+load: POSTWORLD
+author: morskoi den
+permissions:
+  spawner.pickaxe.cmd:
+    default: op

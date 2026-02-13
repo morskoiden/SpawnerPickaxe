@@ -1,0 +1,7 @@
+# Config SpawnerPickaxe by morskoi den
+# Pickaxe Settings
+material: "GOLDEN_PICKAXE"
+name: "§e⛏️ Spawner Pickaxe ⛏️" # name pickaxe
+lore: "§7[ §6Breaks the §lspawner§r§6 and there is a §c50% chance §6it will drop.§r§7 ]" # lore pickaxe
+chance: "50" # chance in drop spawner
+message: "§fYou received a pickaxe that breaks spawners with a 50% chance." # message when issuing a pickaxe
